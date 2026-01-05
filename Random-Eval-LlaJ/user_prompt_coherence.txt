@@ -1,0 +1,13 @@
+Please evaluate the following medical summary based on the provided source document.
+
+#### SOURCE DOCUMENT:
+---
+[SD]
+---
+
+#### GENERATED SUMMARY:
+---
+[GS]
+---
+
+Please provide your evaluation for cpherence, following the instructions and specified output format.
